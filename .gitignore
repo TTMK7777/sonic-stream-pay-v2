@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+frontend/.next/
+frontend/out/
+contracts/artifacts/
+contracts/cache/
+contracts/typechain-types/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+.eslintcache
+
+# Claude Code
+.claude/
+
+# Internal documents
+HANDOVER.md
+CLAUDE.md

@@ -35,10 +35,3 @@ coverage/
 # Misc
 *.tgz
 .eslintcache
-
-# Claude Code
-.claude/
-
-# Internal documents
-HANDOVER.md
-CLAUDE.md

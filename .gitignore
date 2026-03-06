@@ -40,3 +40,7 @@ coverage/
 # Misc
 *.tgz
 .eslintcache
+
+# Security: certificates & keys
+*.pem
+*.key

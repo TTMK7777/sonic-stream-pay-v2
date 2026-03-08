@@ -44,3 +44,9 @@ coverage/
 # Security: certificates & keys
 *.pem
 *.key
+
+# Security - credentials & keys
+*.p12
+credentials.json
+secrets.json
+.credentials.json

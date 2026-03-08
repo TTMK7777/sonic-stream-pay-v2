@@ -41,11 +41,9 @@ coverage/
 *.tgz
 .eslintcache
 
-# Security: certificates & keys
+# Security - credentials & keys
 *.pem
 *.key
-
-# Security - credentials & keys
 *.p12
 credentials.json
 secrets.json
